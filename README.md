@@ -5,7 +5,7 @@
 I'm Elena and I'm a Frontend developer from Ufa💻
 
 <div id="header" align="start">
-  <img src="https://ih1.redbubble.net/image.4065067852.1101/flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg" width="200"/>
+  <img src="https://images-cdn.9gag.com/photo/a6KdmVm_700b.jpg" width="200"/>
 </div>
 <!--
 **elenaturlenko/elenaturlenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
