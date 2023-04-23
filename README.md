@@ -2,6 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+elenaturlenko's+Github+Profile..)](https://git.io/typing-svg)
 
+I'm Elena and I'm a Frontend developer from Ufa💻
+
+<div id="header" align="start">
+  <img src="https://ih1.redbubble.net/image.4065067852.1101/flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg" width="200"/>
+</div>
 <!--
 **elenaturlenko/elenaturlenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
