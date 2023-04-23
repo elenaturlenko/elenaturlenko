@@ -8,6 +8,7 @@ I'm Elena and I'm a Frontend developer from Ufa💻
   <img src="https://images-cdn.9gag.com/photo/a6KdmVm_700b.jpg" width="350"/>
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🔭 I’m currently working on JS, ReactJS
@@ -24,7 +25,3 @@ I'm Elena and I'm a Frontend developer from Ufa💻
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-<div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- </div>
