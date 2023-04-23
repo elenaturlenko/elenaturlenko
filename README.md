@@ -5,7 +5,7 @@
 I'm Elena and I'm a Frontend developer from Ufa💻
 
 <div id="header" align="start">
-  <img src="https://images-cdn.9gag.com/photo/a6KdmVm_700b.jpg" width="350"/>
+  <img src="https://images-cdn.9gag.com/photo/a6KdmVm_700b.jpg" width="300"/>
 </div>
 
 - 🔭 I’m currently working on JS, ReactJS
