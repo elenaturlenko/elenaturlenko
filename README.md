@@ -8,11 +8,10 @@ I'm Elena and I'm a Frontend developer from Ufa💻
   <img src="https://images-cdn.9gag.com/photo/a6KdmVm_700b.jpg" width="350"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 - 🔭 I’m currently working on JS, ReactJS
 - 💬 Ask me about neuroscience, emotional and hiking
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 - <a href="https://t.me/elenaturlenko" target="blank">Telegram</a>
