@@ -3,13 +3,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+elenaturlenko's+Github+Profile..)](https://git.io/typing-svg)
 
 I'm Elena and I'm a Frontend developer from Ufa💻
+<br>
 
 <div id="header" align="start">
   <img src="https://images-cdn.9gag.com/photo/a6KdmVm_700b.jpg" width="300"/>
 </div>
+<br>
+<br>
 
 - 🔭 I’m currently working on JS, ReactJS
 - 💬 Ask me about neuroscience, emotional and hiking
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
